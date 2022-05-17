@@ -34,10 +34,13 @@ const resolvers = {
       if (context.user) {
         const updatedUser = await User.findOneAndUpdate(
           { _id: context.user._id },
-          { $pull: { savedBooks: bookId } },
+          { $pull: { savedBooks: {bookId}} },
           { new: true }
         )
+        console.log(bookId);
+        console.log(updatedUser);
         return updatedUser;
+        
       }
       throw new AuthenticationError('You need to be logged in!');
     },
