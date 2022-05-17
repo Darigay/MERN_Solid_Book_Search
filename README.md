@@ -49,7 +49,12 @@ This Heroku deployed application uses Apollo Server to use GraphQL queries and m
 - nodemon
 
 ## Screenshots
-
+### Book Search Page
+![BookSearch-searchpage](https://user-images.githubusercontent.com/94805706/168735310-fb8dc628-6211-41ec-9853-6d8bfffc974f.png)
+### Saved Book Page
+![BookSearch-savedbookpage](https://user-images.githubusercontent.com/94805706/168735344-01ae8b31-38dc-4591-b2e0-4e38f68d997e.png)
+### Remove Book
+![BookSearch-removebook](https://user-images.githubusercontent.com/94805706/168735350-bbe140d6-6f03-4d0d-9857-ced6fb786d9c.png)
 
 
 ## Resources
