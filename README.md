@@ -5,11 +5,10 @@ The URL of the GitHub repository
 https://github.com/Darigay/MERN_Solid_Book_Search
 
 ## Deployed Application
-
+https://cryptic-beyond-55866.herokuapp.com/
 
 ## Table of Contents
 - Description
-- Walk-through video of the Application
 - Usage
 - Technologies
 - Dependencies
